@@ -103,7 +103,7 @@ dependencies {
 //    implementation "com.android.support:design:${project.Mesibo_supportLibVersion}"
 //    implementation "com.android.support:preference-v7:${project.Mesibo_supportLibVersion}"
 
-    implementation "com.mesibo.api:mesibo:${project.MesiboVersion_Api}"
-    implementation "com.mesibo.api:ui:${project.MesiboVersion_Ui}"
-    implementation "com.mesibo.api:calls:${project.MesiboVersion_Calls}"
+    implementation "com.mesibo.api:mesibo:1.0.94"
+    implementation "com.mesibo.api:ui:1.1.35"
+    implementation "com.mesibo.api:calls:1.0.80"
 }

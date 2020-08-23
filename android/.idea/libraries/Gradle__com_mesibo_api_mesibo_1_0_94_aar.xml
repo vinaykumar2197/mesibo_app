@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mesibo.api:mesibo:1.0.94@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3482e7d5ab6284c5e8933e27874fc219/jetified-mesibo-1.0.94/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3482e7d5ab6284c5e8933e27874fc219/jetified-mesibo-1.0.94/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mesibo.api/mesibo/1.0.94/9588d721fc3d9c189597a77317eaa4d2702cb7da/mesibo-1.0.94-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mesibo.api/mesibo/1.0.94/dae20fe76e5170401a7b167e2e0774760dc5b3a2/mesibo-1.0.94-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

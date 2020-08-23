@@ -101,8 +101,11 @@ public class MainActivity extends FlutterActivity implements  Mesibo.ConnectionL
                             //get credentials from flutter
                             ArrayList credentials = call.argument("Credentials");
                             if (credentials != null) {
-                                mUserAccessToken = credentials.get(0).toString();
-                                mPeer = credentials.get(1).toString();
+//                                mUserAccessToken = credentials.get(0).toString();
+//                                mPeer = credentials.get(1).toString();
+
+                                mUserAccessToken = "cn9cvk6gnm15e7lrjb2k7ggggax5h90n5x7dp4sam6kwitl2hmg4cmwabet4zgdw";
+                                mPeer = "18005550001";
 
                                 //start mesibo here
                                 mesiboInit();
